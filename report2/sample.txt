@@ -1,0 +1,1 @@
+Subtract[Power[x,3],2]

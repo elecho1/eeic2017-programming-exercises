@@ -1,0 +1,1 @@
+Plus[Exp[Times[-1,x]],Power[x,2]]

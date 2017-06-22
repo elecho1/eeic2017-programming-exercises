@@ -1,0 +1,1 @@
+Plus[Log[Plus[1,Power[x,2]]],Power[Plus[x,1],2]]
